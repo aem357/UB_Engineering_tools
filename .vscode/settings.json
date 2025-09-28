@@ -1,8 +1,0 @@
-{
-"python.defaultInterpreterPath": "C:\\Users\\ayman\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
-"terminal.integrated.env.windows": {
-        "PATH": "C:\\Users\\ayman\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe\\;${env:PATH}"
-    },
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": [] 
-}
